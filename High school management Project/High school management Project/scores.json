@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "6561",
+        "subject": "math",
+        "teacher_id": "001",
+        "score": 100.0
+    },
+    {
+        "student_id": "3001",
+        "subject": "english",
+        "teacher_id": "002",
+        "score": 80.0
+    },
+    {
+        "student_id": "001",
+        "subject": "001",
+        "teacher_id": "001",
+        "score": 100.0
+    }
+]

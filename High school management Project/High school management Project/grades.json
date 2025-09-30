@@ -1,0 +1,37 @@
+[
+    {
+        "name": "12th",
+        "description": "for 12th grade",
+        "level": "senior",
+        "class_teacher": "001",
+        "capacity": 50
+    },
+    {
+        "name": "10th",
+        "description": "10th ",
+        "level": "senior  ",
+        "class_teacher": "002",
+        "capacity": 50
+    },
+    {
+        "name": "9th",
+        "description": "for 9th grade",
+        "level": "junior",
+        "class_teacher": "002",
+        "capacity": 50
+    },
+    {
+        "name": "11th",
+        "description": "ofr 11th grade only",
+        "level": "senior",
+        "class_teacher": "001",
+        "capacity": 50
+    },
+    {
+        "name": "8th",
+        "description": "oiuytrewq",
+        "level": "junior",
+        "class_teacher": "0987654",
+        "capacity": 20
+    }
+]

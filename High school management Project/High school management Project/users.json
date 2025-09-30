@@ -1,0 +1,9 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "role": "admin",
+        "full_name": "tech tonic ",
+        "created_at": "2025/05/06"
+    }
+]

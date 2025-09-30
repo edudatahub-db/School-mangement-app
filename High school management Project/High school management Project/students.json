@@ -1,0 +1,54 @@
+[
+    {
+        "student_id": "7771",
+        "name": "Archie Quewon",
+        "grade": "12th",
+        "dob": "2000/08/22",
+        "gender": "male",
+        "phone": "0886392789",
+        "address": "voker mission",
+        "email": "tonictech154@gmail.com",
+        "guardian_name": "jerry paye",
+        "guardian_phone": "09876500",
+        "registered_at": "2025/05/06"
+    },
+    {
+        "student_id": "6561",
+        "name": "Janet Jaye",
+        "grade": "11th",
+        "dob": "1998/27/07",
+        "gender": "Female",
+        "phone": "0770909897",
+        "address": "Duport Road",
+        "email": "janet@gmail.com",
+        "guardian_name": "Archie Quewon",
+        "guardian_phone": "098765yy",
+        "registered_at": "2025/06/05"
+    },
+    {
+        "student_id": "2269",
+        "name": "james doe",
+        "grade": "10th ",
+        "dob": "2001/07/08",
+        "gender": "m ",
+        "phone": "2847575629",
+        "address": "congo town",
+        "email": "james@gmail.com",
+        "guardian_name": "janet jaye",
+        "guardian_phone": "18467654321",
+        "registered_at": "2025/05/06"
+    },
+    {
+        "student_id": "4567890",
+        "name": "oiuytrew",
+        "grade": "11th",
+        "dob": "2001/09/08",
+        "gender": "m",
+        "phone": "09876543",
+        "address": "oiuytrew",
+        "email": "iuytrertyuio@gmail.com",
+        "guardian_name": "oiuytre",
+        "guardian_phone": "0987654",
+        "registered_at": "2002/08/23"
+    }
+]
